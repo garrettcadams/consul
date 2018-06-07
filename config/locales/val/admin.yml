@@ -40,7 +40,7 @@ val:
         form:
           error:
             one: "error va impedir guardar el banner"
-            other: 'errors van impedir guardar el banner'
+            other: "errors van impedir guardar el banner"
       new:
         creating: Crear banner
     activity:
@@ -61,7 +61,6 @@ val:
           on_users: Usuaris
         title: Activitat dels Moderadors
         type: Tipus
-        no_activity: No hi ha activitat dels moderadors.
     budgets:
       index:
         title: Pressupostos participatius
@@ -341,9 +340,6 @@ val:
           title: Propostes
           back: Tornar
         form:
-          header_information: Capçelera d'informació
-          header_information_description: Proporciona informació sobre el recorregut de les propostes. Aquest text es mostrarà com una alerta en la capcelera de la secció de Popostes dins d'aquest proces. Utilitza Markdown per a formatejar el text.
-          header_information_placeholder: Afegeix informació per a la capcelera de les propostes
           custom_categories: Categoríes
           custom_categories_description: Categoríes que l'usuari pot seleccionar al crear la proposta.
       draft_versions:
@@ -568,7 +564,6 @@ val:
         search_officer_placeholder: Cercar presidents de taula
         search_officer_text: Cercar al president de taula per a asignar torn
         select_date: "Seleccionar dia"
-        no_voting_days: "Els díes de votació han acabat"
         select_task: "Seleccionar tasca"
         table_shift: "Torn"
         table_email: "Correu electrònic"
