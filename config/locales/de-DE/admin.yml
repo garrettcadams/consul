@@ -41,7 +41,7 @@ de:
         form:
           error:
             one: "ein Fehler verhinderte, dass das Banner gespeichert wurde"
-            other: 'Fehler verhinderten, dass das Banner gespeichert wurde'
+            other: "Fehler verhinderten, dass das Banner gespeichert wurde"
       new:
         creating: Banner erstellen
     activity:
@@ -62,7 +62,6 @@ de:
           on_users: Benutzer
         title: Moderator-Aktivität
         type: Typ
-        no_activity: Es gibt keine Moderatoren-Aktivität.
     budgets:
       index:
         title: partizipative Haushaltsmittel
@@ -349,8 +348,6 @@ de:
           title: Vorschläge
           back: Zurück
         form:
-          header_information: Leitinformation
-          header_information_description: Beinhaltet Informationen über die Vorschläge. Der Text wird als Warnung innerhalb des Prozesses angezeigt werden. Sie können Markdowns verwenden, um den Text zu formatieren.
           custom_categories: Kategorien
           custom_categories_description: Kategorien, die Benutzer auswählen können, um einen Vorschlag zu erstellen.
       draft_versions:
