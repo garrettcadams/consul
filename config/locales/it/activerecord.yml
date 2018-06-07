@@ -46,9 +46,6 @@ it:
       proposal:
         one: "Proposta cittadina"
         other: "Proposte cittadine"
-      spending_proposal:
-        one: "Proposta di spesa"
-        other: "Proposte di spesa"
       site_customization/page:
         one: Pagina personalizzata
         other: Pagine personalizzate
@@ -120,7 +117,6 @@ it:
       organization:
         responsible_name: "La persona responsabile per l'organzzazione"
       spending_proposal:
-        administrator_id: "Amministratore"
         association_name: "Nome Associazione"
         geozone_id: "Zona di attuazione"
       poll:
