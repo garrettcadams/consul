@@ -58,9 +58,6 @@ fa:
       proposal:
         one: "پیشنهاد شهروند"
         other: "پیشنهادات شهروند"
-      spending_proposal:
-        one: "هزینه های طرح"
-        other: "هزینه های طرح ها"
       site_customization/page:
         one: صفحه سفارشی
         other: صفحه سفارشی
@@ -159,7 +156,6 @@ fa:
         name: "نام سازمان"
         responsible_name: "شخص مسئول گروه"
       spending_proposal:
-        administrator_id: "Administrador"
         association_name: "نام انجمن"
         description: "توضیحات"
         external_url: "لینک به مدارک اضافی"
