@@ -84,7 +84,6 @@ ar:
       organization:
         name: "اسم المنظمة"
       spending_proposal:
-        administrator_id: "إدارة"
         association_name: "اسم الرابطة"
         description: "الوصف"
         title: "العنوان"
