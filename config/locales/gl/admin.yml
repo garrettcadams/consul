@@ -40,7 +40,7 @@ gl:
         form:
           error:
             one: "un erro impediu gardar este banner"
-            other: 'uns erros impediron gardar este banner'
+            other: "uns erros impediron gardar este banner"
       new:
         creating: Crear banner
     activity:
@@ -61,7 +61,6 @@ gl:
           on_users: Usuarios
         title: Actividade dos moderadores
         type: Tipo
-        no_activity: Non hai actividade de moderadores.
     budgets:
       index:
         title: Orzamentos participativos
@@ -349,9 +348,6 @@ gl:
           title: Propostas
           back: Volver
         form:
-          header_information: Cabeceira de información
-          header_information_description: Proporciona información sobre o percorrido das propostas. Este texto mostrarase como unha alerta na cabeceira da sección de Propostas dentro deste proceso. Usa Markdown para darlle formato ao texto.
-          header_information_placeholder: Engade información para a cabeceira das propostas
           custom_categories: Categorias
           custom_categories_description: Categorías que o usuario pode seleccionar o crear a proposta.
       draft_versions:
@@ -576,7 +572,6 @@ gl:
         search_officer_placeholder: Procurar presidente de mesa
         search_officer_text: Procura a presidencia de mesa para asignar unha quenda
         select_date: "Escolle o día"
-        no_voting_days: "Os días de votación remataron"
         select_task: "Escolle tarefa"
         table_shift: "Quenda"
         table_email: "Correo electrónico"
