@@ -41,7 +41,6 @@ he:
         name: "שם הארגון"
         responsible_name: "האחראי/ת לקבוצה"
       spending_proposal:
-        administrator_id: "מנהל/ת המערכת"
         association_name: "שם האגודה"
         description: "תיאור"
         external_url: "קישור למסמכים נוספים"
