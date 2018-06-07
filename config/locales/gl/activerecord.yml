@@ -52,9 +52,6 @@ gl:
       proposal:
         one: "Proposta cidadá"
         other: "Propostas cidadás"
-      spending_proposal:
-        one: "Proposta de investimento"
-        other: "Propostas de investimento"
       site_customization/page:
         one: Páxina
         other: Páxinas
@@ -153,7 +150,6 @@ gl:
         name: "Nome da organización"
         responsible_name: "Persoa responsable do colectivo"
       spending_proposal:
-        administrator_id: "Administración"
         association_name: "Nome da asociación"
         description: "Descrición"
         external_url: "Ligazón á documentación adicional"
