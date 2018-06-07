@@ -43,9 +43,6 @@ es-HN:
       proposal:
         one: "Propuesta ciudadana"
         other: "Propuestas ciudadanas"
-      spending_proposal:
-        one: "Propuesta de inversión"
-        other: "Propuestas de inversión"
       site_customization/page:
         one: Página
         other: Páginas
