@@ -41,7 +41,7 @@ sv:
         form:
           error:
             one: "det gick inte att spara detta banner"
-            other: 'det gick inte att spara detta banner'
+            other: "det gick inte att spara detta banner"
       new:
         creating: Skapa banner
     activity:
@@ -62,7 +62,6 @@ sv:
           on_users: Användare
         title: Moderatoråtgärder
         type: Typ
-        no_activity: Det finns ingen moderatoraktivitet.
     budgets:
       index:
         title: Medborgarbudget
@@ -371,9 +370,6 @@ sv:
           title: Förslag
           back: Tillbaka
         form:
-          header_information: Informationsrubrik
-          header_information_description: Lämna information om förslagen. Denna text kommer att visas som en varning i förslagssektionen inuti denna process. Använda Markdown för att formatera texten.
-          header_information_placeholder: Lägg till information om förslagsrubrik
           custom_categories: Kategorier
           custom_categories_description: Kategorier som användare kan välja när de skapar förslaget.
       draft_versions:
@@ -674,7 +670,6 @@ sv:
         search_officer_placeholder: Sök ämbetsman
         search_officer_text: Sök efter en ämbetsman för att tilldela ett nytt skift
         select_date: "Välj dag"
-        no_voting_days: "Röstdagarna är slut"
         select_task: "Välj uppgift"
         table_shift: "Skift"
         table_email: "E-post"
