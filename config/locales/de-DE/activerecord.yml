@@ -52,9 +52,6 @@ de:
       proposal:
         one: "Bürgerantrag"
         other: "Bürgeranträge"
-      spending_proposal:
-        one: "Ausgabenvorschlag"
-        other: "Ausgabenvorschläge"
       site_customization/page:
         one: Benutzerwebseite
         other: Benutzerwebseiten
@@ -153,7 +150,6 @@ de:
         name: "Name der Organisation"
         responsible_name: "Der/die Gruppenverantwortliche"
       spending_proposal:
-        administrator_id: "Administrator"
         association_name: "Vereinsname"
         description: "Beschreibung"
         external_url: "Link zu weiterer Dokumentation"
