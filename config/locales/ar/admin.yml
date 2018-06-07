@@ -56,7 +56,6 @@ ar:
           on_users: المستخدمين
         title: نشاط المشرف
         type: النوع
-        no_activity: ليس هناك أي نشاط من المشرفين.
     budgets:
       index:
         title: الميزانيات المشاركة
@@ -155,6 +154,5 @@ ar:
           draft_texts: نص
       proposals:
         form:
-          header_information_description: تقديم معلومات حول المقترحات. سيتم عرض هذا النص كتنبيه في قسم المقترحات لهذه العملية. استخدام المحدد لتنسيق النص.
           custom_categories: فئات
           custom_categories_description: الفئات أن يمكن للمستخدمين تحديدها لإنشاء مقترح.
