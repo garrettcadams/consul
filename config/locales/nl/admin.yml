@@ -39,7 +39,7 @@ nl:
         form:
           error:
             one: "prevented this banner from being saved"
-            other: 'prevented this banner from being saved'
+            other: "prevented this banner from being saved"
       new:
         creating: Banner toevoegen
     activity:
@@ -60,7 +60,6 @@ nl:
           on_users: Gebruikers
         title: Controleactiviteit
         type: Type
-        no_activity: Er is geen controle activiteit.
     budgets:
       index:
         title: Begrotingsvoorstellen
