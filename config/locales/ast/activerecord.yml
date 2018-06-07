@@ -43,9 +43,6 @@ ast:
       proposal:
         one: "Propuesta ciudadana"
         other: "Propuestes ciudadanes"
-      spending_proposal:
-        one: "Propuesta d'inversión"
-        other: "Propuestes d'inversión"
       site_customization/page:
         one: Páxina
         other: Páxines
@@ -107,7 +104,6 @@ ast:
       organization:
         responsible_name: "Persona responsable del colectivu"
       spending_proposal:
-        administrator_id: "Alministrador"
         association_name: "Nome de l'asociación"
         geozone_id: "Ámbitu d'actuación"
       poll:
