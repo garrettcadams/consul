@@ -34,9 +34,6 @@ sv:
       proposal:
         one: "Medborgarförslag"
         other: "Medborgarförslag"
-      spending_proposal:
-        one: "Investeringsförslag"
-        other: "Investeringsförslag"
       site_customization/page:
         one: Anpassad sida
         other: Anpassade sidor
@@ -135,7 +132,6 @@ sv:
         name: "Organisationens namn"
         responsible_name: "Gruppens talesperson"
       spending_proposal:
-        administrator_id: "Administratör"
         association_name: "Föreningens namn"
         description: "Beskrivning"
         external_url: "Länk till ytterligare dokumentation"
