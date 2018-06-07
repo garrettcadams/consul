@@ -52,9 +52,6 @@ nl:
       proposal:
         one: "Voorstel"
         other: "Voorstellen"
-      spending_proposal:
-        one: "Begrotingsvoorstel"
-        other: "Begrotingsvoorstellen"
       site_customization/page:
         one: Aangepaste pagina
         other: Aangepaste paginas
@@ -132,7 +129,6 @@ nl:
         name: "Naam van organisatie"
         responsible_name: "Persoon verantwoordelijk voor de groep"
       spending_proposal:
-        administrator_id: "Administrator"
         association_name: "Verenigingsnaam"
         description: "Omschrijving"
         external_url: "Link naar extra documentatie"
