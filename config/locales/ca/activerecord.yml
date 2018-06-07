@@ -46,9 +46,6 @@ ca:
       proposal:
         one: "Proposta ciutadana"
         other: "Propostes ciutadanes"
-      spending_proposal:
-        one: "Proposta d'inversió"
-        other: "Propostes d'inversió"
       site_customization/page:
         one: pàgina
         other: pàgines
@@ -110,7 +107,6 @@ ca:
       organization:
         responsible_name: "Persona responsable de l'associació"
       spending_proposal:
-        administrator_id: "Administrador"
         association_name: "Nom de l'associació"
         geozone_id: "Àmbit d'actuació"
       poll:
