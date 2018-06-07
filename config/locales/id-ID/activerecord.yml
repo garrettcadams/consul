@@ -33,8 +33,6 @@ id:
         other: "petugas"
       proposal:
         other: "Usulan warga"
-      spending_proposal:
-        other: "Pengeluaran proposal"
       site_customization/page:
         other: Gambar Khusus
       site_customization/image:
@@ -120,7 +118,6 @@ id:
         name: "Nama organisasi"
         responsible_name: "Orang yang bertanggung jawab untuk kelompok"
       spending_proposal:
-        administrator_id: "Adminitrasi"
         association_name: "Asosiasi nama"
         description: "Deskripsi"
         external_url: "Tautkan ke dokumentasi tambahan"
