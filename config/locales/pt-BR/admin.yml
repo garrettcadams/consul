@@ -40,7 +40,7 @@ pt-BR:
         form:
           error:
             one: "erro impediu este banner de ser salvo"
-            other: 'erros impediram este banner de ser salvo'
+            other: "erros impediram este banner de ser salvo"
       new:
         creating: Criar banner
     activity:
@@ -61,7 +61,6 @@ pt-BR:
           on_users: Usuários
         title: Atividade do moderador
         type: Tipo
-        no_activity: Não há nenhuma atividade de moderadores.
     budgets:
       index:
         title: Orçamentos participativos
@@ -359,9 +358,6 @@ pt-BR:
           title: Propostas
           back: Voltar
         form:
-          header_information: Cabeçalho de informações
-          header_information_description: Forneça informações sobre as propostas. Este texto será exibido como um alerta na seção Propostas dentro deste Processo. Faça Remarcação para formatar o texto.
-          header_information_placeholder: Adicionar informações para o cabeçalho das propostas
           custom_categories: Categorias
           custom_categories_description: Categorias que os usuários podem selecionar criando a proposta.
       draft_versions:
@@ -634,7 +630,6 @@ pt-BR:
         search_officer_placeholder: Buscar presidente
         search_officer_text: Buscar presidente para atribuir a um novo turno
         select_date: "Selecionar data"
-        no_voting_days: "Os dias de votação terminaram"
         select_task: "Selecionar tarefa"
         table_shift: "Turno"
         table_email: "Email"
