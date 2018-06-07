@@ -52,9 +52,6 @@ val:
       proposal:
         one: "Proposta ciutadana"
         other: "Propostes ciutadanes"
-      spending_proposal:
-        one: "Proposta d'inversió"
-        other: "Propostes d'inversió"
       site_customization/page:
         one: Pàgina
         other: Pàgines
@@ -153,7 +150,6 @@ val:
         name: "Nom de l'organització"
         responsible_name: "Persona responsable de l'associació"
       spending_proposal:
-        administrator_id: "Administrador"
         association_name: "Nom de l'associació"
         description: "Descripció"
         external_url: "Enllaç a documentació addicional"
