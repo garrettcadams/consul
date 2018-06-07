@@ -41,7 +41,7 @@ fa:
         form:
           error:
             one: "خطا باعث شد که این بنر ذخیره نشود."
-            other: 'خطاها باعث شدند که این بنر ذخیره نشود.'
+            other: "خطاها باعث شدند که این بنر ذخیره نشود."
       new:
         creating: ایجاد أگهی
     activity:
@@ -62,7 +62,6 @@ fa:
           on_users: کاربران
         title: فعالیت مدیر
         type: نوع
-        no_activity: فعالیت مدیران وجود ندارد.
     budgets:
       index:
         title: بودجه مشارکتی
@@ -371,9 +370,6 @@ fa:
           title: طرح های پیشنهادی
           back: برگشت
         form:
-          header_information: اطلاعات سرصفحه
-          header_information_description: ارائه اطلاعات در مورد پیشنهادات. این متن به عنوان یک هشدار در بخش پیشنهاداتهای داخل این فرایند نمایش داده می شود. برای قالب کردن متن از Markdown استفاده کنید.
-          header_information_placeholder: اضافه کردن اطلاعات برای هدر پیشنهادات
           custom_categories: "دسته بندی ها\n"
           custom_categories_description: دسته بندی هایی که کاربران می توانند ایجاد پیشنهاد را انتخاب کنند.
       draft_versions:
@@ -674,7 +670,6 @@ fa:
         search_officer_placeholder: جستجو افسر
         search_officer_text: جستجو برای افسر برای اختصاص شیفت جدید 
         select_date: "انتخاب روز"
-        no_voting_days: "روز رای گیری به پایان رسید"
         select_task: "وظیفه را انتخاب کنید"
         table_shift: "تغییر "
         table_email: "پست الکترونیکی"
