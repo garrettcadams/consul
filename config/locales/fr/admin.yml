@@ -40,7 +40,7 @@ fr:
         form:
           error:
             one: "a empêché cette bannière d'être sauvegardée"
-            other: 'ont empêchés cette bannière d''être sauvegardée'
+            other: "ont empêchés cette bannière d'être sauvegardée"
       new:
         creating: Créer la bannière
     activity:
@@ -61,7 +61,6 @@ fr:
           on_users: Utilisateurs
         title: Activité de modération
         type: Type
-        no_activity: Il n'y a eu aucune modération.
     budgets:
       index:
         title: Budgets participatifs
@@ -350,9 +349,6 @@ fr:
           title: Propositions
           back: Retour
         form:
-          header_information: En-tête d’information
-          header_information_description: Fournir des informations sur les propositions. Ce texte s’affiche comme une alerte dans la section de propositions à l’intérieur de ce processus. Le format Markdown permet de formater le texte.
-          header_information_placeholder: Ajouter des informations d’en-tête des propositions
           custom_categories: Catégories
           custom_categories_description: Catégories que les utilisateurs peuvent sélectionner créer une proposition.
       draft_versions:
@@ -635,7 +631,6 @@ fr:
         search_officer_placeholder: Rechercher un assesseur
         search_officer_text: Rechercher un assesseur à qui associer une nouvelle période de travail
         select_date: "Sélectionner le jour"
-        no_voting_days: "La période de vote est terminée"
         select_task: "Sélectionner une tâche"
         table_shift: "Période de travail"
         table_email: "Email"
