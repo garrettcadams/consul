@@ -39,7 +39,7 @@ id:
       errors:
         form:
           error:
-            other: 'kesalahan dicegah banner ini untuk diselamatkan'
+            other: "kesalahan dicegah banner ini untuk diselamatkan"
       new:
         creating: Membuat spanduk
     activity:
@@ -60,7 +60,6 @@ id:
           on_users: Pengguna
         title: Moderator kegiatan
         type: Tipe
-        no_activity: Tidak ada aktivitas moderator.
     budgets:
       index:
         title: Anggaran partisipatif
@@ -347,9 +346,6 @@ id:
           title: Proposal
           back: Kembali
         form:
-          header_information: Judul informasi
-          header_information_description: Berikan informasi tentang proposal. Teks ini akan dimunculkan sebagai peringatan di bagian Proposal di dalam Proses ini. Gunakan format Menurun untuk teks.
-          header_information_placeholder: Tambahkan informasi untuk header proposal
           custom_categories: Kategori
           custom_categories_description: Kategori itu yang dapat dipilih pengguna membuat proposal.
       draft_versions:
@@ -574,7 +570,6 @@ id:
         search_officer_placeholder: Cari petugas
         search_officer_text: Mencari petugas untuk menetapkan pergeseran baru
         select_date: "Pilih hari"
-        no_voting_days: "Hari-hari pemungutan suara berakhir"
         select_task: "Pilih tugas"
         table_shift: "Regu"
         table_email: "Surel"
