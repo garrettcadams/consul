@@ -52,9 +52,6 @@ pt-BR:
       proposal:
         one: "Proposta dos cidadãos"
         other: "Propostas dos cidadãos"
-      spending_proposal:
-        one: "Proposta de gastos"
-        other: "Propostas de gastos"
       site_customization/page:
         one: Página personalizada
         other: Páginas personalizadas
@@ -153,7 +150,6 @@ pt-BR:
         name: "Nome da organização"
         responsible_name: "Pessoa responsável pelo grupo"
       spending_proposal:
-        administrator_id: "Administrador"
         association_name: "Nome da Associação"
         description: "Descrição"
         external_url: "Link para documentação adicional"
