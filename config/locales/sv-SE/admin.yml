@@ -5,7 +5,6 @@ sv:
     actions:
       actions: Åtgärder
       confirm: Är du säker?
-      confirm_hide: Bekräfta
       hide: Göm
       hide_author: Göm författare
       restore: Återställ
@@ -70,7 +69,6 @@ sv:
         filters:
           open: Öppna
           finished: Klart
-        budget_investments: Visa investeringsförslag
         table_name: Namn
         table_phase: Etapp
         table_investments: Investeringar
@@ -330,7 +328,6 @@ sv:
           enabled: Aktiverat
           process: Process
           debate_phase: Debatt fas
-          allegations_phase: Debatt fas
           proposals_phase: Förslagsfas
           start: Starta
           end: Slut
@@ -362,7 +359,6 @@ sv:
           status_planned: Planerad
         subnav:
           info: Information
-          draft_texts: Text
           questions: Debatt
           proposals: Förslag
       proposals:
@@ -437,7 +433,6 @@ sv:
             error: Fel
         form:
           add_option: Lägg till alternativ
-          title_placeholder: Lägga till en titel
           value_placeholder: Lägg till ett stängt svar
         index:
           back: Tillbaka
@@ -470,7 +465,6 @@ sv:
       activity: Moderator aktivitet
       admin: Administrationsmeny
       banner: Hantera fälttecken
-      poll_questions: Enkät frågor
       proposals_topics: Förslag till ämnen
       budgets: Medborgarbudgetar
       geozones: Hantera geozones
@@ -492,7 +486,6 @@ sv:
       poll_shifts: Hantera växlingar
       officials: Tjänstemän
       organizations: Organisationer
-      settings: Konfigurationsinställningar
       spending_proposals: Investeringsförslag
       stats: Statistik
       signature_sheets: Underskrifter
@@ -501,13 +494,10 @@ sv:
         pages: Anpassade sidor
         images: Anpassade bilder
         content_blocks: Anpassade innehållsblock
-      title_categories: Kategorier
       title_moderated_content: Modererat innehåll
       title_budgets: Budgetar
       title_polls: Omröstningar
       title_profiles: Profiler
-      title_banners: Banners
-      title_site_customization: Webbplatsanpassning
       legislation: Kollaborativ lagstiftning
       users: Användare
     administrators:
@@ -571,7 +561,6 @@ sv:
         sent_at: Skickat vid
         subject: Ämne
         segment_recipient: Mottagare
-        from: Från
         body: E-post innehåll
         body_help_text: Detta är hur användarna kommer att se e-post
         send_alert: Är du säker du vill sända detta nyhetsbrev till %{n} användare?
@@ -718,8 +707,6 @@ sv:
         table_location: "Plats"
     polls:
       index:
-        title: "Lista över opinionsundersökningar"
-        no_polls: "Det finns inga opinionsundersökningar."
         create: "Skapa opinionsundersökning"
         name: "Namn"
         dates: "Datum"
@@ -831,8 +818,6 @@ sv:
         title: "Resultat av monter"
     booths:
       index:
-        title: "Lista över montrar"
-        no_booths: "Det finns inga bås."
         add_booth: "Lägg till monter"
         name: "Namn"
         location: "Plats"
@@ -1080,11 +1065,6 @@ sv:
         title: Ofullständiga kontroller
     site_customization:
       content_blocks:
-        form:
-          content_blocks_information: Information om innehållsblock
-          content_block_about: Du kan skapa HTML innehållsblock som ska infogas i sidhuvudet eller sidfoten på din KONSUL.
-          content_block_top_links_html: "<strong>header block (top_links)</strong> är block av länkar som måste ha detta format:"
-          content_block_footer_html: "<strong>sidfot block</strong> kan ha valfritt format och kan användas för att infoga Javascript, CSS eller anpassade HTML."
         create:
           notice: Innehållsblock har lyckats skapas
           error: Innehållsblocket kunde inte skapas
