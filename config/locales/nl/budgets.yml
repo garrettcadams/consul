@@ -29,14 +29,11 @@ nl:
         unselected_title: Investeringen die niet zijn geselecteerd voor ballotage
         unselected: Bekijk investeringen die niet zijn geselecteerd voor ballotage
     phase:
-      informing: Informeren
       accepting: Voorstellen doen
       reviewing: Voorstellen beoordelen
       selecting: Voorstellen selecteren
       valuating: Voorstellen waarderen
       publishing_prices: Gepubliceerde project prijzen
-      balloting: Voorstellen in stemming
-      reviewing_ballots: Beoordelen stemuitslag
       finished: Afgerond voorstel
     index:
       title: Begrotingsvoorstellen
