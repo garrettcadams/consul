@@ -2,7 +2,6 @@ he:
   admin:
     actions:
       confirm: בטוח?
-      confirm_hide: אשר
       hide: החבא
       hide_author: החבא יוצר
       restore: שחזר
@@ -56,7 +55,6 @@ he:
         new_link: Create new budget
         filters:
           finished: Finished
-        budget_investments: See budget investments
         table_name: Name
         table_phase: Phase
         table_investments: Investments
@@ -178,7 +176,6 @@ he:
       valuators: Valuators
       officials: Officials
       organizations: Organisations
-      settings: Configuration settings
       spending_proposals: Spending proposals
       stats: Statistics
       signature_sheets: Signature Sheets
