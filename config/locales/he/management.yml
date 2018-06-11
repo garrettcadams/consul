@@ -54,7 +54,6 @@ he:
       support_budget_investments: תמיכה בתקציבים להשקעה
       users: משתמשים
       edit_user_accounts: עריכת חשבונך
-      user_invites: הזמנות של המשתמש/ת
     permissions:
       create_proposals: יצירת הצעות
       debates: השתתפות בדיונים
@@ -115,8 +114,5 @@ he:
       new:
         label: הודעות דואר אלקטרוני
         info: "הזנת כתובות דואר אלקטרוני מופרדות בפסיקים (',')"
-        submit: שליחת הזמנות
-        title: הזמנות של המשתמש/ת
       create:
         success_html: <strong>%{count} ההזמנות</strong> נשלחו
-        title: הזמנות של המשתמש/ת
