@@ -34,7 +34,6 @@ it:
     budgets:
       index:
         new_link: Creare un nuovo bilancio
-        budget_investments: Vedi le proposte di investimenti
         table_investments: Investimenti
         table_edit_groups: Gruppi di intestazioni
         edit_groups: Modificare i gruppi di intestazioni
@@ -189,7 +188,6 @@ it:
           title: "Modificare \"%{question_title}\""
         form:
           add_option: Aggiungere l'opzione
-          title_placeholder: Aggiungere un titolo
           value_placeholder: Aggiungi una risposta chiusa
         new:
           title: Creare una nuova domanda
@@ -215,7 +213,6 @@ it:
       poll_booths: Ubicazione delle urne
       officials: Pubblici ufficiali
       organizations: Organizzazioni
-      settings: Impostazioni di configurazione
       stats: Statistiche
       signature_sheets: Fogli firma
       site_customization:
@@ -225,7 +222,6 @@ it:
       title_moderated_content: Contenuto moderato
       title_budgets: Bilanci
       title_profiles: Profili
-      title_site_customization: Personalizzazione del sito
       legislation: Legislazione collaborativa
     administrators:
       administrator:
@@ -290,7 +286,6 @@ it:
         no_results: "Non ci sono risultati"
     booths:
       index:
-        no_booths: "Non ci sono seggi."
         add_booth: "Aggiungere seggio"
       new:
         title: "Nuovo seggio"
@@ -417,8 +412,6 @@ it:
         sms_code_not_confirmed: Non è stato confermato il codice inviato per Sms
     site_customization:
       content_blocks:
-        form:
-          content_blocks_information: Informazione sui blocchi di contenuto
         create:
           notice: Blocco di contenuto creato con successo
           error: Il blocco di contenuto non può essere creato
