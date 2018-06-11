@@ -31,8 +31,6 @@ ca:
       reviewing: Revisant propostes
       selecting: Selecció de propostes
       valuating: Avaluació de propostes
-      balloting: Votació de propostes
-      reviewing_ballots: Contant resultats
       finished: Presupost finalitzat
     index:
       title: Pressupostos participatius
