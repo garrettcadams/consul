@@ -5,7 +5,6 @@ es-CO:
     actions:
       actions: Acciones
       confirm: '¿Estás seguro?'
-      confirm_hide: Confirmar
       hide: Ocultar
       hide_author: Bloquear al autor
       restore: Volver a mostrar
@@ -66,7 +65,6 @@ es-CO:
         filter: Filtro
         filters:
           finished: Terminados
-        budget_investments: Ver propuestas de inversión
         table_name: Nombre
         table_phase: Fase
         table_investments: Propuestas de inversión
@@ -258,7 +256,6 @@ es-CO:
           enabled: Habilitado
           process: Proceso
           debate_phase: Fase previa
-          allegations_phase: Fase de alegaciones
           proposals_phase: Fase de propuestas
           start: Inicio
           end: Fin
@@ -290,7 +287,6 @@ es-CO:
           status_planned: Próximamente
         subnav:
           info: Información
-          draft_texts: Texto
           proposals: Propuestas
       proposals:
         index:
@@ -358,7 +354,6 @@ es-CO:
           submit_button: Guardar cambios
         form:
           add_option: +Añadir respuesta cerrada
-          title_placeholder: Escribe un título a la pregunta
           value_placeholder: Escribe una respuesta cerrada
         index:
           back: Volver
@@ -390,7 +385,6 @@ es-CO:
       activity: Actividad de moderadores
       admin: Menú de administración
       banner: Gestionar banners
-      poll_questions: Preguntas ciudadanas
       proposals_topics: Temas de propuestas
       budgets: Presupuestos participativos
       geozones: Gestionar distritos
@@ -409,7 +403,6 @@ es-CO:
       poll_shifts: Asignar turnos
       officials: Cargos públicos
       organizations: Organizaciones
-      settings: Configuración global
       spending_proposals: Propuestas de inversión
       stats: Estadísticas
       signature_sheets: Hojas de firmas
@@ -417,12 +410,10 @@ es-CO:
         pages: Personalizar páginas
         images: Personalizar imágenes
         content_blocks: Personalizar bloques
-      title_categories: Categorías
       title_moderated_content: Contenido moderado
       title_budgets: Presupuestos
       title_polls: Votaciones
       title_profiles: Perfiles
-      title_site_customization: Personalizar sitio
       legislation: Legislación colaborativa
       users: Usuarios
     administrators:
@@ -554,8 +545,6 @@ es-CO:
         table_location: "Ubicación"
     polls:
       index:
-        title: "Listado de votaciones"
-        no_polls: "No hay ninguna votación."
         create: "Crear votación"
         name: "Nombre"
         dates: "Fechas"
@@ -667,8 +656,6 @@ es-CO:
         title: "Resultados por urna"
     booths:
       index:
-        title: "Lista de urnas"
-        no_booths: "No hay urnas."
         add_booth: "Añadir urna"
         name: "Nombre"
         location: "Ubicación"
@@ -967,11 +954,6 @@ es-CO:
         title: Verificaciones incompletas
     site_customization:
       content_blocks:
-        form:
-          content_blocks_information: Información sobre los bloques de texto
-          content_block_about: Puedes crear bloques de HTML que se incrustarán en la cabecera o el pie de tu CONSUL.
-          content_block_top_links_html: "Los <strong>bloques de la cabecera (top_links)</strong> son bloques de enlaces que deben crearse con este formato:"
-          content_block_footer_html: "Los <strong>bloques del pie (footer)</strong> pueden tener cualquier formato y se pueden utilizar para guardar huellas Javascript, contenido CSS o contenido HTML personalizado."
         create:
           notice: Bloque creado correctamente
           error: No se ha podido crear el bloque
