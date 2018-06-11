@@ -5,7 +5,6 @@ nl:
     actions:
       actions: Acties
       confirm: Weet je het zeker?
-      confirm_hide: Bevestigen
       hide: Verbergen
       hide_author: Auteur verbergen
       restore: Herstellen
@@ -134,9 +133,6 @@ nl:
       index:
         title: Hidden users
     site_customization:
-      content_blocks:
-        form:
-          content_block_about: You can create HTML content blocks to be inserted in the header or the footer of your Consul.
       pages:
         page:
           locale: Taal
