@@ -41,7 +41,6 @@ it:
       print_budget_investments: Stampare i progetti di investimento
       support_budget_investments: Appoggiare i progetti di investimento
       edit_user_accounts: Modificare account utente
-      user_invites: Inviti dell'utente
     permissions:
       create_proposals: Creare proposte
       debates: Partecipare nei dibattiti
@@ -79,6 +78,5 @@ it:
     user_invites:
       new:
         info: "Inserisci l'e-mail separate da virgola (',')"
-        submit: Inviare inviti
       create:
         success_html: <strong>%{count} inviti</strong> sono stati inviati.
