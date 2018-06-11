@@ -29,14 +29,11 @@ es-VE:
         unselected: Ver las propuestas no seleccionadas para la votación final
     phase:
       drafting: Borrador (No visible para el público)
-      informing: Informando
       accepting: Presentación de proyectos
       reviewing: Revisión interna de proyectos
       selecting: Fase de apoyos
       valuating: Evaluación de proyectos
       publishing_prices: Publicación de precios
-      balloting: Votación final
-      reviewing_ballots: Votación finalizada
       finished: Resultados
     index:
       title: Presupuestos participativos
