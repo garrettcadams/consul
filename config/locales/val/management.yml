@@ -55,7 +55,6 @@ val:
       support_budget_investments: Avalar Projectes d'Inversió
       users: Usuaris
       edit_user_accounts: Editar compte d'usuari
-      user_invites: Invitacions per a usuaris
     permissions:
       create_proposals: Crear noves propostes
       debates: Participar en debats
@@ -125,8 +124,5 @@ val:
       new:
         label: Correus electrònics
         info: "Introdueix els correus electrònics separats per comes (',')"
-        submit: Enviar invitacions
-        title: Invitacions per a usuaris
       create:
         success_html: S'han enviat <strong>%{count} invitacions</strong>.
-        title: Invitacions per a usuaris
