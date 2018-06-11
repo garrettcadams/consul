@@ -34,8 +34,6 @@ val:
       selecting: Selecció de propostes
       valuating: Avaluació de propostes
       publishing_prices: Publicació del cost dels projectes
-      balloting: Votació de propostes
-      reviewing_ballots: Votación finalitzada
       finished: Resultats
     index:
       title: Pressupostos participatius
