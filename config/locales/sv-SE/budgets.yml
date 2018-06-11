@@ -30,14 +30,11 @@ sv:
         unselected: Se investeringar som inte valts för lottningsfas
     phase:
       drafting: Utkast (inte synligt för allmänheten)
-      informing: Informerar
       accepting: Accepterar projekt
       reviewing: Granskar projekt
       selecting: Väljer projekt
       valuating: Värderar projekt
       publishing_prices: Publicerar projektpriser
-      balloting: Lottningsprojekt
-      reviewing_ballots: Granskar lottningar
       finished: Färdig budget
     index:
       title: Medborgarbudgetar
