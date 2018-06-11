@@ -30,14 +30,11 @@ fa:
         unselected: دیدن سرمایه گذاری هایی که برای مرحله رای گیری انتخاب نشده اند
     phase:
       drafting: پیش نویس ( غیرقابل مشاهده برای عموم)
-      informing: اطلاع رسانی
       accepting: پذیرش پروژه
       reviewing: بررسی پروژه ها
       selecting: پذیرش پروژه
       valuating: ارزیابی پروژه
       publishing_prices: انتشار قیمت پروژه
-      balloting: رای گیری پروژه ها 
-      reviewing_ballots: بررسی آراء
       finished: بودجه به پایان رسید
     index:
       title: بودجه مشارکتی
