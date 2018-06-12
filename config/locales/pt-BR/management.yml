@@ -55,7 +55,6 @@ pt-BR:
       support_budget_investments: Apoiar investimentos orçamentários
       users: Usuários
       edit_user_accounts: Editar a conta de usuário
-      user_invites: Convites do usuário
     permissions:
       create_proposals: Criar propostas
       debates: Participar em debates
@@ -125,8 +124,5 @@ pt-BR:
       new:
         label: E-mails
         info: "Escreva os emails separados por vírgulas (',')"
-        submit: Enviar convites
-        title: Convites do usuário
       create:
         success_html: <strong>%{count} de convites</strong> foram enviados.
-        title: Convites do usuário
