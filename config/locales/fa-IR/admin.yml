@@ -5,7 +5,6 @@ fa:
     actions:
       actions: اقدامات
       confirm: آیا مطمئن هستید؟
-      confirm_hide: تایید
       hide: پنهان کردن
       hide_author: پنهان کردن نویسنده
       restore: بازیابی
@@ -70,7 +69,6 @@ fa:
         filters:
           open: بازکردن
           finished: به پایان رسید
-        budget_investments: دیدن بودجه سرمایه گذاری ها 
         table_name: نام
         table_phase: فاز
         table_investments: سرمایه گذاری ها
@@ -330,7 +328,6 @@ fa:
           enabled: فعال
           process: "روند\n"
           debate_phase: فاز بحث
-          allegations_phase: فاز تایید
           proposals_phase: ' فاز طرحها'
           start: شروع
           end: پایان
@@ -362,7 +359,6 @@ fa:
           status_planned: برنامه ریزی شده
         subnav:
           info: اطلاعات
-          draft_texts: متن
           questions: بحث
           proposals: طرح های پیشنهادی
       proposals:
@@ -437,7 +433,6 @@ fa:
             error: خطا
         form:
           add_option: اضافه کردن گزینه
-          title_placeholder: افزودن عنوان
           value_placeholder: یک پاسخ بسته را اضافه کنید
         index:
           back: برگشت
@@ -470,7 +465,6 @@ fa:
       activity: فعالیت مدیر
       admin: منوی ادمین
       banner: مدیریت آگهی ها
-      poll_questions: سوالات نظرسنجی
       proposals_topics: موضوعات پیشنهادی
       budgets: بودجه مشارکتی
       geozones: مدیریت geozones
@@ -492,7 +486,6 @@ fa:
       poll_shifts: مدیریت تغییرات
       officials: مقامات
       organizations: سازمان ها
-      settings: تنظیمات پیکربندی
       spending_proposals: هزینه های طرح ها
       stats: آمار
       signature_sheets: ورق امضا
@@ -501,13 +494,10 @@ fa:
         pages: صفحات سفارشی
         images: عکس های سفارشی
         content_blocks: محتوای بلوکهای سفارشی 
-      title_categories: "دسته بندی ها\n"
       title_moderated_content: کنترل محتویات
       title_budgets: بودجه ها
       title_polls: نظر سنجی ها
       title_profiles: پروفایل
-      title_banners: آگهی ها
-      title_site_customization: سایت سفارشی
       legislation: قانون همکاری
       users: کاربران
     administrators:
@@ -571,7 +561,6 @@ fa:
         sent_at: ارسال شده توسط
         subject: "موضوع\n"
         segment_recipient: گیرندگان
-        from: "از \n"
         body: محتوای ایمیل
         body_help_text: چگونگی دیدن ایمیل توسط کاربران
         send_alert: آیا مطمئن هستید که میخواهید این خبرنامه را به%{n} کاربران ارسال کنید؟
@@ -718,8 +707,6 @@ fa:
         table_location: "محل"
     polls:
       index:
-        title: "فهرست غرفه"
-        no_polls: "هیچ غرفه ای وجود ندارد."
         create: "ایجاد نظرسنجی"
         name: "نام"
         dates: "تاریخ"
@@ -831,8 +818,6 @@ fa:
         title: "نتیجه توسط غرفه"
     booths:
       index:
-        title: "فهرست غرفه"
-        no_booths: "هیچ غرفه ای وجود ندارد."
         add_booth: "اضافه کردن غرفه"
         name: "نام"
         location: "محل"
@@ -1144,11 +1129,6 @@ fa:
         title: تأیید ناقص
     site_customization:
       content_blocks:
-        form:
-          content_blocks_information: اطلاعات در مورد محتوای بلوک
-          content_block_about: شما می توانید بلوک های محتوای HTML را در هدر یا پایین صفحه CONSUL خود وارد کنید.
-          content_block_top_links_html: "<strong> بلوکهای سربرگ (پیوندهای بالا) </ strong> بلوکهای پیوند هستند که باید این فرم را داشته باشند:"
-          content_block_footer_html: "<strong> بلوک های پاورقی </ strong> می تواند هر فرمت داشته باشد و می تواند برای جاوااسکریپت، CSS یا سفارشی HTML استفاده شود."
         create:
           notice: بلوک محتوا با موفقیت ایجاد شد
           error: بلوک محتوا ایجاد نشد
