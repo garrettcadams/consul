@@ -30,14 +30,11 @@ pt-BR:
         unselected: Ver investimentos não selecionados para a fase de votação
     phase:
       drafting: Rascunho (não visível ao público)
-      informing: Informações
       accepting: Aceite dos projetos
       reviewing: Revendo projetos
       selecting: Seleção dos projetos
       valuating: Avaliação dos projetos
       publishing_prices: Publicação dos preços dos projetos
-      balloting: Votação dos projetos
-      reviewing_ballots: Revisão dos votos
       finished: Orçamento final
     index:
       title: Orçamentos participativos
