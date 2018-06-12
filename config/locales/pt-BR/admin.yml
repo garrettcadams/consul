@@ -5,7 +5,6 @@ pt-BR:
     actions:
       actions: Ações
       confirm: Tem certeza?
-      confirm_hide: Confirmar
       hide: Esconder
       hide_author: Esconder o autor
       restore: Restaurar
@@ -69,7 +68,6 @@ pt-BR:
         filters:
           open: Abertos
           finished: Terminados
-        budget_investments: Veja os investimentos do orçamento
         table_name: Nome
         table_phase: Estágio
         table_investments: Investimentos
@@ -318,7 +316,6 @@ pt-BR:
           enabled: Habilitado
           process: Processo
           debate_phase: Fase de debate
-          allegations_phase: Fase de alegações
           proposals_phase: Fase de propostas
           start: Início
           end: Final
@@ -350,7 +347,6 @@ pt-BR:
           status_planned: Planejados
         subnav:
           info: Informação
-          draft_texts: Texto
           questions: Debate
           proposals: Propostas
       proposals:
@@ -425,7 +421,6 @@ pt-BR:
             error: Erro
         form:
           add_option: Adicionar opção
-          title_placeholder: Adicionar um título
           value_placeholder: Adicionar resposta fechada
         index:
           back: Voltar
@@ -458,7 +453,6 @@ pt-BR:
       activity: Atividade do moderador
       admin: Menu de admin
       banner: Gerenciar banners
-      poll_questions: Perguntas dos cidadãos
       proposals_topics: Tópicos de propostas
       budgets: Orçamentos participativos
       geozones: Gerenciar geozonas
@@ -480,7 +474,6 @@ pt-BR:
       poll_shifts: Gerenciar turnos
       officials: Cargos públicos
       organizations: Organizações
-      settings: Definições de configuração
       spending_proposals: Propostas de gastos
       stats: Estatísticas
       signature_sheets: Folhas de assinatura
@@ -488,13 +481,10 @@ pt-BR:
         pages: Páginas personalizadas
         images: Imagens personalizadas
         content_blocks: Blocos de conteúdo personalizados
-      title_categories: Categorias
       title_moderated_content: Conteúdo moderado
       title_budgets: Orçamentos
       title_polls: Votações
       title_profiles: Perfis
-      title_banners: Banners
-      title_site_customization: Personalização do site
       legislation: Legislação colaborativa
       users: Usuários
     administrators:
@@ -558,7 +548,6 @@ pt-BR:
         sent_at: Enviado em
         subject: Assunto
         segment_recipient: Destinatários
-        from: De
         body: Conteúdo do e-mail
         body_help_text: Os usuários visualizarão o email desta forma
         send_alert: Você tem certeza que quer enviar este boletim informativo para %{n} usuários?
@@ -678,8 +667,6 @@ pt-BR:
         table_location: "Localização"
     polls:
       index:
-        title: "Lista de votações"
-        no_polls: "Não há votações."
         create: "Criar votação"
         name: "Nome"
         dates: "Datas"
@@ -791,8 +778,6 @@ pt-BR:
         title: "Resultados por urna"
     booths:
       index:
-        title: "Lista de urnas"
-        no_booths: "Não há urnas."
         add_booth: "Adicionar urna"
         name: "Nome"
         location: "Localização"
@@ -1098,11 +1083,6 @@ pt-BR:
         title: Verificações incompletas
     site_customization:
       content_blocks:
-        form:
-          content_blocks_information: Informações sobre blocos de conteúdo
-          content_block_about: Você pode criar blocos de conteúdo HTML para serem inseridos no cabeçalho ou no rodapé do seu CONSUL.
-          content_block_top_links_html: "<strong>Blocos de cabeçalho (top_links)</strong> são blocos de links que devem ter este formato:"
-          content_block_footer_html: "<strong> Blocos de rodapé</strong> podem ter qualquer formato e podem ser usados para inserir Javascript, CSS ou HTML personalizado."
         create:
           notice: Bloco de conteúdo criado com sucesso
           error: Bloco de conteúdo não pôde ser criado
