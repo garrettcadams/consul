@@ -5,7 +5,6 @@ de:
     actions:
       actions: Aktionen
       confirm: Sind Sie sich sicher?
-      confirm_hide: Bestätigen
       hide: Ausblenden
       hide_author: Autor verbergen
       restore: Wiederherstellen
@@ -70,7 +69,6 @@ de:
         filters:
           open: Offen
           finished: Abgeschlossen
-        budget_investments: Budgetinvestitionen anzeigen
         table_name: Name
         table_phase: Phase
         table_investments: Investitionen
@@ -308,7 +306,6 @@ de:
           enabled: Aktiviert
           process: Prozess
           debate_phase: Diskussionsphase
-          allegations_phase: Phase für Behauptungen
           proposals_phase: Phase für Vorschläge
           start: Beginn
           end: Ende
@@ -340,7 +337,6 @@ de:
           status_planned: Geplant
         subnav:
           info: Information
-          draft_texts: Text
           questions: Diskussion
           proposals: Vorschläge
       proposals:
@@ -403,7 +399,6 @@ de:
             error: Fehler
         form:
           add_option: Option hinzufügen
-          title_placeholder: Titel hinzufügen
           value_placeholder: Eine geschlossene Antwort hinzufügen
         index:
           back: Zurück
@@ -436,7 +431,6 @@ de:
       activity: Moderator-Aktivität
       admin: Administrator-Menü
       banner: Verwalten von Bannern
-      poll_questions: Umfrage-Fragen
       proposals_topics: Themen für Vorschläge
       budgets: Partizipative Haushaltsmittel
       geozones: Distrikte verwalten
@@ -455,7 +449,6 @@ de:
       poll_shifts: Schichten verwalten
       officials: Beamte
       organizations: Organisationen
-      settings: Konfigurationseinstellungen
       spending_proposals: Ausgabenvorschläge
       stats: Statistiken
       signature_sheets: Signatur-Blätter
@@ -463,13 +456,10 @@ de:
         pages: Benutzerwebseiten
         images: Benutzerbilder
         content_blocks: Nutzerspezifische Inhaltsdatenblöcke
-      title_categories: Kategorien
       title_moderated_content: Moderater Inhalte
       title_budgets: Budgets
       title_polls: Abstimmungen
       title_profiles: Profile
-      title_banners: Banner
-      title_site_customization: Websitenanpassung
       legislation: Partizipative Gesetzgebung
       users: Benutzer
     administrators:
@@ -508,7 +498,6 @@ de:
       show:
         subject: Betreff
         segment_recipient: Empfänger
-        from: Von
         send_alert: Sind Sie sicher, dass Sie diesen Newsletter an %{n} Benutzer senden möchten?
     emails_download:
       index:
@@ -578,8 +567,6 @@ de:
         table_name: "Name"
     polls:
       index:
-        title: "Liste der Umfragen"
-        no_polls: "Es gibt keine Umfragen."
         create: "Umfrage erstellen"
         name: "Name"
         dates: "Datum"
