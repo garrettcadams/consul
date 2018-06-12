@@ -5,7 +5,6 @@ ar:
     actions:
       actions: الإجراءات
       confirm: هل أنت متأكد؟
-      confirm_hide: تأكيد
       hide: إخفاء
       hide_author: إخفاء الكاتب
       restore: إسترجاع
@@ -151,7 +150,6 @@ ar:
           status_planned: مخطط
         subnav:
           info: معلومات
-          draft_texts: نص
       proposals:
         form:
           custom_categories: فئات
