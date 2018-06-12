@@ -5,7 +5,6 @@ id:
     actions:
       actions: Tindakan
       confirm: Apakah anda yakin?
-      confirm_hide: Konfirmasi
       hide: Sembunyikan
       hide_author: Sembunyikan penulis
       restore: Mengembalikan
@@ -68,7 +67,6 @@ id:
         filters:
           open: Buka
           finished: Diselesaikan
-        budget_investments: Melihat anggaran investasi
         table_name: Nama
         table_phase: Fase
         table_investments: Investasi
@@ -306,7 +304,6 @@ id:
           enabled: Diaktifkan
           process: Proses
           debate_phase: Masa perdebatan
-          allegations_phase: Masa tuduhan
           proposals_phase: Masa proposal
           start: Mulai
           end: Berakhir
@@ -338,7 +335,6 @@ id:
           status_planned: Direncanakan
         subnav:
           info: Informasi
-          draft_texts: Teks
           questions: Perdebatan
           proposals: Proposal
       proposals:
@@ -413,7 +409,6 @@ id:
             error: Kesalahan
         form:
           add_option: Menambahkan pilihan
-          title_placeholder: Tambahkan sebuah judul
           value_placeholder: Menambahkan sebuah pertanyaan tertutup
         index:
           back: Kembali
@@ -446,7 +441,6 @@ id:
       activity: Aktivitas moderator
       admin: Menu Admin
       banner: Mengelola spanduk
-      poll_questions: Pemilihan pertanyaan
       proposals_topics: Tema proposal
       budgets: Anggaran partisipatif
       geozones: Mengelola geozone
@@ -465,7 +459,6 @@ id:
       poll_shifts: Mengelola perubahan
       officials: Pejabat
       organizations: Organisasi
-      settings: Pengaturan konfigurasi
       spending_proposals: Belanja proposal
       stats: Statistik
       signature_sheets: Lembar Tanda Tangan
@@ -473,13 +466,10 @@ id:
         pages: Halaman Kustom
         images: Gambar Khusus
         content_blocks: Blok konten khusus
-      title_categories: Kategori
       title_moderated_content: Konten moderasi
       title_budgets: Anggaran
       title_polls: Jajak pendapat
       title_profiles: Profil
-      title_banners: Spanduk
-      title_site_customization: Situs kustomisasi
       legislation: Undang-undang kolaboratif
       users: Pengguna
     administrators:
@@ -618,8 +608,6 @@ id:
         table_location: "Lokasi"
     polls:
       index:
-        title: "Daftar pemilihan"
-        no_polls: "Tidak ada pemilihan."
         create: "Buat jajak pendapat"
         name: "Nama"
         dates: "Tanggal"
@@ -715,8 +703,6 @@ id:
         title: "Hasil berdasarkan stan"
     booths:
       index:
-        title: "Daftar stan"
-        no_booths: "Tidak ada stan."
         add_booth: "Tambahkan stan"
         location: "Lokasi"
         no_location: "Tidak ada lokasi"
@@ -937,11 +923,6 @@ id:
         title: Tidak lengkap verifikasi
     site_customization:
       content_blocks:
-        form:
-          content_blocks_information: Informasi tentang konten blok
-          content_block_about: Anda dapat membuat konten HTML blok yang akan dimasukkan ke dalam header atau footer yang anda KONSUL.
-          content_block_top_links_html: "<strong>Header blok (top_links)</strong> adalah blok link yang harus memiliki format ini:"
-          content_block_footer_html: "<strong>blok Footer</strong> dapat memiliki format dan dapat digunakan untuk menyisipkan Javascript, CSS atau HTML kustom."
         create:
           notice: Blok konten berhasil dibuat
           error: Blok konten tidak dapat dibuat
