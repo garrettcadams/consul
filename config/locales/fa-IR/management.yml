@@ -70,7 +70,6 @@ fa:
       support_budget_investments: حمایت از بودجه سرمایه گذاری 
       users: کاربران
       edit_user_accounts: ویرایش حساب کاربری
-      user_invites: ' دعوت کاربر'
     permissions:
       create_proposals: ایجاد طرح های جدید
       debates: مشارکت در بحث
@@ -140,8 +139,5 @@ fa:
       new:
         label: پست الکترونیکی
         info: "ایمیل های جدا شده توسط کاما ('،') را وارد کنید"
-        submit: ' ارسال دعوت'
-        title: ' دعوت کاربر'
       create:
         success_html: <strong>%{count}دعوت نامه</strong>ارسال شده
-        title: ' دعوت کاربر'
