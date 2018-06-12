@@ -30,14 +30,11 @@ fr:
         unselected: Voir les investissements non-sélectionnés pour la phase de vote
     phase:
       drafting: Brouillon (non visible du public)
-      informing: Information
       accepting: Présentation des projets
       reviewing: Examen des projets
       selecting: Sélection des projets
       valuating: Évaluation des projets
       publishing_prices: Publication du coût des projets
-      balloting: Vote final
-      reviewing_ballots: Examen des votes
       finished: Budget terminé
     index:
       title: Budgets participatifs
