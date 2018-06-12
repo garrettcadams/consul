@@ -55,7 +55,6 @@ id:
       support_budget_investments: Mendukung Investasi Anggaran
       users: Pengguna
       edit_user_accounts: Sunting akun pengguna
-      user_invites: Undang pengguna
     permissions:
       create_proposals: Buat proposal
       debates: Terlibat dalam perdebatan
@@ -123,8 +122,5 @@ id:
       new:
         label: Email
         info: "Masukkan email yang dipisahkan dengan koma (',')"
-        submit: Kirim undangan
-        title: Undangan pengguna
       create:
         success_html: <strong>%{count} undangan</strong> sudah dikirim.
-        title: Undangan pengguna
