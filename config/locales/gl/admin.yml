@@ -5,7 +5,6 @@ gl:
     actions:
       actions: Accións
       confirm: Estás seguro?
-      confirm_hide: Confirmar
       hide: Ocultar
       hide_author: Bloquear o autor
       restore: Volver mostrar
@@ -69,7 +68,6 @@ gl:
         filters:
           open: Abrir
           finished: Rematados
-        budget_investments: Ver propostas de investimento
         table_name: Nome
         table_phase: Fase
         table_investments: Propostas de investimento
@@ -308,7 +306,6 @@ gl:
           enabled: Habilitado
           process: Proceso
           debate_phase: Fase previa
-          allegations_phase: Fase de alegacións
           proposals_phase: Fase de propostas
           start: Comezo
           end: Remate
@@ -340,7 +337,6 @@ gl:
           status_planned: Planificado
         subnav:
           info: Información
-          draft_texts: Texto
           questions: Debate
           proposals: Propostas
       proposals:
@@ -415,7 +411,6 @@ gl:
             error: Erro
         form:
           add_option: Engadir unha opción
-          title_placeholder: Escribe un título á pregunta
           value_placeholder: Engadir unha resposta pechada
         index:
           back: Volver
@@ -448,7 +443,6 @@ gl:
       activity: Actividade de moderadores
       admin: Menú de administración
       banner: Xestionar banners
-      poll_questions: Preguntas cidadás
       proposals_topics: Temas propostos
       budgets: Orzamentos participativos
       geozones: Xestionar distritos
@@ -467,7 +461,6 @@ gl:
       poll_shifts: Asignar quendas
       officials: Cargos públicos
       organizations: Organizacións
-      settings: Configuración global
       spending_proposals: Propostas de investimento
       stats: Estatísticas
       signature_sheets: Follas de sinatura
@@ -475,13 +468,10 @@ gl:
         pages: Páxinas personalizadas
         images: Imaxes personalizadas
         content_blocks: Personalizar bloques
-      title_categories: Categorías
       title_moderated_content: Moderar contido
       title_budgets: Orzamentos
       title_polls: Votacións
       title_profiles: Perfís
-      title_banners: Bánners
-      title_site_customization: Personalizar sitio
       legislation: Lexislación colaborativa
       users: Usuarios/as
     administrators:
@@ -620,8 +610,6 @@ gl:
         table_location: "Localización"
     polls:
       index:
-        title: "Relación de votacións"
-        no_polls: "Non hai ningunha votación."
         create: "Crear votación"
         name: "Nome"
         dates: "Datas"
@@ -733,8 +721,6 @@ gl:
         title: "Resultados por urna"
     booths:
       index:
-        title: "Listaxe de urnas"
-        no_booths: "Non hai ningunha urna."
         add_booth: "Engadir urna"
         name: "Nome"
         location: "Localización"
@@ -1040,11 +1026,6 @@ gl:
         title: Verificacións incompletas
     site_customization:
       content_blocks:
-        form:
-          content_blocks_information: Información sobre os bloques de texto
-          content_block_about: Podes crear bloques de HTML que se insiren na cabeceira ou no pé do teu CONSUL.
-          content_block_top_links_html: "Os <strong>bloques da cabeceira (top_links)</strong> son conxuntos de ligazóns que deben crearse con este formato:"
-          content_block_footer_html: "Os <strong>bloques do pé de páxina</strong> poden ter calquera formato e poden utilizarse para inserir códigos Javascript, CSS ou HTML personalizado."
         create:
           notice: O bloque creouse correctamente
           error: Non se puido crear o bloque
