@@ -5,7 +5,6 @@ fr:
     actions:
       actions: Actions
       confirm: Êtes-vous sûr(e) ?
-      confirm_hide: Confirmer
       hide: Cacher
       hide_author: Cacher l'auteur
       restore: Restaurer
@@ -69,7 +68,6 @@ fr:
         filters:
           open: Ouvert
           finished: Terminé
-        budget_investments: Voir les propositions d'investissement
         table_name: Nom
         table_phase: Phases
         table_investments: Propositions d'investissement
@@ -309,7 +307,6 @@ fr:
           enabled: Activé
           process: Processus
           debate_phase: Phase de débat
-          allegations_phase: Phase d’allégations
           proposals_phase: Phase de propositions
           start: Début
           end: Fin
@@ -341,7 +338,6 @@ fr:
           status_planned: Planifié
         subnav:
           info: Information
-          draft_texts: Texte
           questions: Débat
           proposals: Propositions
       proposals:
@@ -416,7 +412,6 @@ fr:
             error: Erreur
         form:
           add_option: Ajouter une option
-          title_placeholder: Ajouter un titre
           value_placeholder: Ajouter une réponse
         index:
           back: Retour
@@ -449,7 +444,6 @@ fr:
       activity: Activité des modérateurs
       admin: Menu d'administration
       banner: Gérer les bannières
-      poll_questions: Questions des citoyens
       proposals_topics: Sujets des propositions
       budgets: Budgets participatifs
       geozones: Gérer les districts
@@ -471,7 +465,6 @@ fr:
       poll_shifts: Assigner les périodes de travail
       officials: Officiels
       organizations: Organisations
-      settings: Paramétres de configuration
       spending_proposals: Propositions d'investissement
       stats: Statistiques
       signature_sheets: Feuilles de signature
@@ -479,13 +472,10 @@ fr:
         pages: Pages personnalisées
         images: Images personnalisées
         content_blocks: Blocs de contenu personnalisés
-      title_categories: Catégories
       title_moderated_content: Contenu modéré
       title_budgets: Budgets
       title_polls: Votes
       title_profiles: Profils
-      title_banners: Bannières
-      title_site_customization: Personnalisation du site
       legislation: Processus législatif collaboratif
       users: Utilisateurs
     administrators:
@@ -548,7 +538,6 @@ fr:
         sent_at: Envoyé à
         subject: Objet
         segment_recipient: Destinataires
-        from: De
         body: Contenu du courriel
         body_help_text: Voici le rendu du courriel pour les destinataires
         send_alert: Êtes-vous sûr de vouloir envoyer ce bulletin d'information à %{n} utilisateurs ?
@@ -679,8 +668,6 @@ fr:
         table_location: "Lieu"
     polls:
       index:
-        title: "Liste des votes"
-        no_polls: "Il n'y a pas de votes."
         create: "Créer un vote"
         name: "Nom"
         dates: "Dates"
@@ -792,8 +779,6 @@ fr:
         title: "Résultats par bureau"
     booths:
       index:
-        title: "Liste des bureaux de vote"
-        no_booths: "Il n'y a pas de bureaux de vote."
         add_booth: "Ajouter un bureau de vote"
         name: "Nom"
         location: "Lieu"
@@ -1101,11 +1086,6 @@ fr:
         title: Vérifications incomplètes
     site_customization:
       content_blocks:
-        form:
-          content_blocks_information: Information à propos des blocs de contenu
-          content_block_about: Vous pouvez créer des blocs de contenu en HTML pour les insérer dans l'en-tête ou le pied de page de votre Consul.
-          content_block_top_links_html: "<strong>Les blocs de l'en-tête (top_links)</strong> sont des blocs de liens devant impérativement respecter ce format :"
-          content_block_footer_html: "<strong>Les blocs du pied de page</strong> ont un format libre et peuvent être utilisés pour insérer du Javascript, du CSS ou du HTML personnalisé."
         create:
           notice: Bloc de contenu créé avec succès
           error: Le bloc de contenu n'a pas pu être créé
