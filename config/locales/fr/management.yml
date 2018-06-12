@@ -69,7 +69,6 @@ fr:
       support_budget_investments: Supporter des projets d'investissement
       users: Utilisateurs
       edit_user_accounts: Éditer un compte utilisateur
-      user_invites: Invitations de l'utilisateur
     permissions:
       create_proposals: Créer des propositions
       debates: Participer aux débats
@@ -139,8 +138,5 @@ fr:
       new:
         label: Courriels
         info: "Entrer les courriels supprimés par des virgules (',')"
-        submit: Envoyer les invitations
-        title: Invitations utilisateur
       create:
         success_html: <strong>%{count} invitations</strong> ont été envoyées.
-        title: Invitations utilisateur
