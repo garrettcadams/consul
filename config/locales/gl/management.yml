@@ -55,7 +55,6 @@ gl:
       support_budget_investments: Apoiar proxectos de investimento
       users: Usuarios/as
       edit_user_accounts: Editar conta de usuario
-      user_invites: Convites para usuarios/as
     permissions:
       create_proposals: Crear novas propostas
       debates: Participar en debates
@@ -125,8 +124,5 @@ gl:
       new:
         label: Correos
         info: "Escribe os correos separados por comas (',')"
-        submit: Enviar convites
-        title: Convites para usuarios/as
       create:
         success_html: Enviáronse <strong>%{count} convites</strong>.
-        title: Convites para usuarios/as
