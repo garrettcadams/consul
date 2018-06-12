@@ -29,14 +29,11 @@ gl:
         unselected: Ver as propostas que non foron seleccionadas para a votación final
     phase:
       drafting: Borrador (non visible para o público)
-      informing: Informando
       accepting: Presentación de proxectos
       reviewing: Revisión de proxectos
       selecting: Fase de apoios
       valuating: Avaliación de proxectos
       publishing_prices: Publicación de prezos
-      balloting: Votación de proxectos
-      reviewing_ballots: Votación rematada
       finished: Resultados
     index:
       title: Orzamentos participativos
