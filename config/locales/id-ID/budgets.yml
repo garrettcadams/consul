@@ -26,14 +26,11 @@ id:
         unselected: Melihat investasi yang tidak dipilih untuk pemungutan suara tahap
     phase:
       drafting: Konsep (Tidak terlihat ke publik)
-      informing: Menginformasikan
       accepting: Menerima proyek
       reviewing: Meninjau proyek
       selecting: Memilih proyek
       valuating: Menilai proyek
       publishing_prices: Menerbitkan harga proyek
-      balloting: Proyek memungut suara
-      reviewing_ballots: Meninjau pungutan suara
       finished: Anggaran yang habis
     index:
       title: Anggaran partisipasif
